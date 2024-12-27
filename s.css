@@ -1,0 +1,115 @@
+body{
+    background-color: rgba(244, 240, 165, 0.945);
+    font-family:'Times New Roman', Times, serif;
+    color:rgb(239, 91, 172);
+    margin: 30px;
+}
+.box{
+    display:flex;
+    height:500px;
+    justify-content: center;
+    align-items: center;
+    font-size: 80px;
+    border-style:dashed;
+    border-color:rgb(239, 91, 172);
+    color:rgb(236, 45, 150); ;  
+}
+.box1{
+    display:flex;
+    height:500px;
+    width: 820px;
+    font-size:large;
+    font-weight: bold;
+    border-style:dashed;
+    border-color:rgb(239, 91, 172);
+
+}
+.pic{
+    font-size: medium;
+    height: 550px;
+}
+.txt{
+    height:500px;
+    width:400px;
+    font-weight: bold;
+    padding-left: 30px;
+    
+}
+
+.box2{
+    display:flex;
+    height:500px;
+    border-style:dashed;
+    border-color:rgb(239, 91, 172);
+}
+
+.about{
+    height:400px;
+    width:600px;
+    border-style:dashed;
+    border-color:rgb(239, 91, 172); 
+    border-radius: 90px;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.t{
+    font-size: 70px;
+    height: 70px;
+    width: 600px;
+    color:rgb(236, 45, 150); 
+    padding-left: 30px;
+    padding-top: 0px;
+
+}
+.b{
+    font-size: 50px;
+    text-align: center;
+    color:rgb(236, 45, 150); ;
+}
+.edu{
+    width:550px;
+    height: 500px;
+    margin-top: 0px;
+    border-style:none;
+    border-color:rgb(239, 91, 172); 
+}
+.d{
+    font-weight: bold;
+    font-size: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.sc{
+    padding-left: 80px;
+    font-size: 24px;
+    color:rgb(236, 45, 150); 
+}
+.g{
+    font-size: 58px;
+    font-weight: bold;
+    padding-left: 60px;
+    color:rgb(236, 45, 150);   
+}
+.k,.a{
+    font-size: 21px;
+    font-weight: bold;
+    padding-left: 40PX ;
+    color:rgb(236, 45, 150);  
+}
+.skill{
+    color:rgb(236, 45, 150);  
+    width: 350px;
+    height: 400px;
+    margin-top: 30px;
+    border-style:dashed;
+    border-color:rgb(239, 91, 172); 
+    border-radius: 60px;
+}
+.act{
+    color:rgb(236, 45, 150);  
+    padding-left: 20PX;
+    font-size:50px;
+}
+.z{
+    padding-left: 50px;
+}
